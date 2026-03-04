@@ -6,9 +6,7 @@ An implementation of the **Missionaries and Cannibals** problem, solved using fo
 
 ## The Problem
 
-Three missionaries and three cannibals need to cross a river. There's one boat that can carry **at most two people**. The catch:
-
-> At no point can cannibals outnumber missionaries on either side of the river — unless there are no missionaries on that side at all.
+Three missionaries and three cannibals need to cross a river. There is a single boat that can carry **at most two people**. The condition is that at no point can cannibals be greater than the missionaries on either side of the river (unless there are no missionaries at all on that side of the river).
 
 The goal is to get everyone safely across.
 
@@ -18,7 +16,7 @@ The goal is to get everyone safely across.
 
 ---
 
-## Algorithms
+## Algorithms Used
 
 - **BFS (Breadth-first Search)** — explores level by level, guaranteed to find the shortest path
 - **DFS (Depth-first Search)** — Backtracks after exploring deepest levels first, not optimal but has higher memory efficiency as compared to BSF
