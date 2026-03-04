@@ -22,7 +22,7 @@ For a machine to pass, it must demonstrate:
 | Respondent Interface | Defines method of input |
 | Human Respondent | Human responses via I/O |
 | Machine Respondent | AI system generating responses |
-| Interrogator / Judge | Asks questions and evaluates responses |
+| Interrogator/Judge | Asks questions and evaluates responses |
 | Session Manager | Manages conversation flow |
 
 ### Flowchart
