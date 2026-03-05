@@ -47,3 +47,13 @@ python captcha.py
 
 [ A* B| 3~ T! K. ]
 Enter the 5 characters shown in the CAPTCHA (without spaces):
+
+```
+## Project Structure
+
+```
+Q3-SearchProblem
+├── search.py
+├── README.md
+└── PERFORMANCE_COMPARISON.md
+```
